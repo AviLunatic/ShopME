@@ -9,6 +9,7 @@ The analysis was performed using Python, and the interactive dashboard was built
 Python (Pandas, Matplotlib, Seaborn)
 Power BI
 Excel / CSV Dataset
+
 📈 Key Features
 Interactive Power BI Dashboard
 KPI Metrics:
@@ -24,6 +25,7 @@ Payment Method
 Gender
 Order Status
 Date
+
 🔍 Key Insights
 Generated over 1.3 Billion in total revenue
 Metro cities like Mumbai and Delhi contribute the highest sales
